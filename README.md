@@ -5,7 +5,7 @@
 
 🚀 Sobre Mim
 
-🔭 Atualmente, trabalhando em um projeto web sobre um jogo 2D.
+🔭 Atualmente, trabalhando no meu projeto para o CloudStream.
 
 🌱 Sempre aprendendo novas tecnologias.
 
